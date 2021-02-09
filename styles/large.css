@@ -76,7 +76,15 @@
     .offer-service-box:hover {
         transform: scale(1.05);
     }
+    
+    .burger {
+        display: none;
+ 
+    }
+    
 }
+
+
 
 @media (min-width: 1024px) {
     .offer-service-box {
